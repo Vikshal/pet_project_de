@@ -226,3 +226,7 @@ cred.py
 logs/
 minio_data/
 format.json
+xl.meta
+airflow.cfg
+c797d0a2-759f-4ea1-80ee-11b5a391b359
+project.txt
